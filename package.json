@@ -1,0 +1,14 @@
+{
+  "name": "create",
+  "version": "1.0.0",
+  "description": "Thank you for using our template!",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
